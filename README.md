@@ -1,4 +1,4 @@
-# Clients API Laravel - Teste
+# Mentes Notaveis API Laravel - Teste
 Teste feito em laravel para uma vaga, o teste é criar uma api rest em laravel e mysql.
 
 ### Como configurar o ambiente
